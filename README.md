@@ -25,7 +25,7 @@
 <a href="https://fb.com/kamran ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/kamran_0027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran_0027" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kamran0027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamran0027" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/kamranahmadmd463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kamranahmadmd463" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kamranahmadmd463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kamranahmadmd463" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
