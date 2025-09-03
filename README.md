@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamran0027&label=Profile%20views&color=0e75b6&style=flat" alt="kamran0027" /> </p>
 
-- 🔭 I’m currently working on **Voice Connect**
+- 🔭 I’m currently working on **Labour Link project**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Back-end project on spring**
 
